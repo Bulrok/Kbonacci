@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace Kbonacci.Tests2
+namespace Kbonacci.Tests
 {
     public class KbonacciTests
     {
